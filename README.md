@@ -1,20 +1,27 @@
 # LSTM Solar Production Model
 LSTM models for predictive analysis. Python code, Keras, scikit-learn. Preprocessing, training, evaluation. Visualizations and analysis for data and LSTM model.
 
-# Overview
+
+## Overview
 This project focuses on data analysis on SOLENTEGRE solar santral and creating LSTM model for predictive purposes. It involves the analysis of LSTM model for further investigation, followed by the development and evaluation of a predictive model using machine learning techniques.
 
-# Key Features
+
+## Key Features
 -Data preprocessing and cleaning
+
 -Exploratory Data Analysis (EDA) to gain insights into the dataset
+
 -Development of a machine learning model for predicting the future energy outputs of a solar panel
+
 -Evaluation of model performance using appropriate metrics
+
 -Visualizations to aid in understanding the data and model results
 
-# Dataset
+
+## Dataset
 The dataset used in this project contains SOLENTEGRE solar santral and weather data in location of the solar panels.
 
-# Result
+## Result
 The data shows the outputs of this solar santral and insights show us outputs are rather low despite the mechanical capacity of the solar panels.
 
 -Model is rather successfull about predicting the future electric generation.
