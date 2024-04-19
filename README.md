@@ -17,12 +17,17 @@ The dataset used in this project contains SOLENTEGRE solar santral and weather d
 # Result
 The data shows the outputs of this solar santral and insights show us outputs are rather low despite the mechanical capacity of the solar panels.
 
-Model is rather successfull about predicting the future electric generation.
-Mean Squared Error: 0.5672647509556019
-Root Mean Squared Error: 0.7531698022063829
-R2 Score: 0.9115022433169341
-Mean Absolute Error: 0.4173385843030987
-Symmetric Mean Absolute Percentage Error: 1.7417823959371228
+-Model is rather successfull about predicting the future electric generation.
+
+-Mean Squared Error: 0.5672647509556019
+
+-Root Mean Squared Error: 0.7531698022063829
+
+-R2 Score: 0.9115022433169341
+
+-Mean Absolute Error: 0.4173385843030987
+
+-Symmetric Mean Absolute Percentage Error: 1.7417823959371228
 
 ![output](https://github.com/okanergun/LSTM-Solar-Production-Model/assets/20783326/407f5354-de68-4dff-a963-022566b32ee7)
 
